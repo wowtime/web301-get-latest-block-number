@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "web3": "^4.5.0"
+  },
+  "name": "get-latest-block-number",
+  "version": "1.0.0",
+  "description": "web3.js test 01",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowtime/web301-get-latest-block-number.git"
+  },
+  "keywords": [
+    "web3",
+    "latest-block-number",
+    "dotenv"
+  ],
+  "author": "wowtime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wowtime/web301-get-latest-block-number/issues"
+  },
+  "homepage": "https://github.com/wowtime/web301-get-latest-block-number#readme"
+}
