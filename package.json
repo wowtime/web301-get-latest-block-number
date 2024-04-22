@@ -1,6 +1,6 @@
 {
   "name": "get-latest-block-number",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "web3.js test 01",
   "main": "index.js",
   "devDependencies": {},
