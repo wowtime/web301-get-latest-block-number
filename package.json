@@ -41,7 +41,7 @@
     "simple-caculator": "^1.0.3",
     "check-arrays": "^1.0.1",
     "get-gas-price": "^1.0.3",
-    "get-latest-block-number": "^1.0.1"    
+    "get-latest-block-number": "^1.0.1",
     "web3": "^4.5.0"
   },
   "repository": {
